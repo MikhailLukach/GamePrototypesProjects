@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPCs
+  - ThoughtBubbles
+  - FieldOfVision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - NPCS
+  - Level
+  - LevelBackground
+  - Background
+  - ViewCones
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainBackground
+    uniqueID: 3713992797
+    locked: 0
+  - name: Level
+    uniqueID: 299197053
+    locked: 0
+  - name: Player
+    uniqueID: 640333093
+    locked: 0
+  - name: MemoryWipeRay
+    uniqueID: 2651117195
+    locked: 0
+  - name: LevelInteractBG
+    uniqueID: 2402892929
+    locked: 0
+  - name: ViewCones
+    uniqueID: 877218841
+    locked: 0
+  - name: NPCS
+    uniqueID: 1814017455
+    locked: 0
+  - name: ThoughtBubble
+    uniqueID: 2173177355
+    locked: 0
+  - name: Thoughts
+    uniqueID: 3963288501
+    locked: 0
